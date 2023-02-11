@@ -49,7 +49,7 @@ export class TLoginButton extends Component<TLoginButtonProps> {
     }
 
     const script = document.createElement('script');
-    script.src = 'https://telegram.org/js/telegram-widget.js?10';
+    script.src = 'https://telegram.org/js/telegram-widget.js?21';
     script.async = true;
 
     script.setAttribute('data-telegram-login', botName)
