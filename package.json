@@ -1,5 +1,5 @@
 {
-  "name": "react-telegram-auth",
+  "name": "react-telegram-auth-new",
   "version": "1.0.3",
   "description": "React component wrapper for Telegram Login Widget",
   "main": "./lib/index.js",
